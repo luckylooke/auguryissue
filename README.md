@@ -1,6 +1,6 @@
 # auguryissue
 
-repository created for helping reproduce issue in augury (rangle/augury#992)
+repository created for helping reproduce issue in augury ([rangle/augury#992](https://github.com/rangle/augury/issues/992)
 
 after cloning repo, install dependencies vie `npm i`
 and run dev server `ionic serve`
